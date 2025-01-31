@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dharmik Rachhadiya!<br>💻 Diploma Computer Engineering Student | 🚀 Passionate Developer<br><br>🔹 Skilled in C, C++, Python, HTML, CSS, JavaScript, Bootstrap, Java, Node.js, Angular, PHP, and DBMS using Oracle<br>🔹 Enthusiastic about Web & Software Development<br>🔹 Love working on new projects & open-source contributions<br><br>📌 GitHub Purpose: Saving projects, sharing knowledge, and improving skills
+👋 Hi, I'm Dharmik Rachhadiya!<br>💻 Diploma Computer Engineering Student | 🚀 Passionate Developer<br><br>🔹 Skilled in C, C++, Python, Java, PHP, HTML, CSS, JavaScript, Bootstrap, Java, Node.js, Angular, PHP, and DBMS using Oracle<br>🔹 Enthusiastic about Web & Software Development<br>🔹 Love working on new projects & open-source contributions<br><br>📌 GitHub Purpose: Saving projects, sharing knowledge, and improving skills
 
 
 ## 🌐 Socials:
